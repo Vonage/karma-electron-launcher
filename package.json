@@ -22,7 +22,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "async": "^0.9.0",
+    "async": "^2.6.4",
     "merge": "^1.2.0",
     "ncp": "^2.0.0"
   },
